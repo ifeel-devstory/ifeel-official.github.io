@@ -184,7 +184,7 @@ const STRINGS = {
       eyebrow: 'What Yaksok does',
       heading: ['Just point.', 'Yaksok does the rest.'],
       sub: 'From a single gesture — pointing your camera at a medicine — Yaksok carries you all the way from identification to a plain-language explanation.',
-      modes: ['Pill ID', 'Check expiry', 'Read photo'],
+      modes: ['Pill ID', 'Expiry Scan', 'Photo Scan'],
       items: [
         {
           tag: '01 · IDENTIFY',
